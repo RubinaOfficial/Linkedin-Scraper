@@ -61,7 +61,3 @@ Emily Davis
 - Add support for scrolling and dynamic loading
 - Extract job titles and profile URLs
 - Export to Excel format
-
----
-Feel free to modify and extend this project based on your specific requirements.
-
