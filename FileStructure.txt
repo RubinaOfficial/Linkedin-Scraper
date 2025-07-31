@@ -1,5 +1,5 @@
 linkedin Scraper\
-    |---- Chromedrivrr.exe
+    |---- Chromedriver.exe
     |---- linkedin_scraper.py
     |---- linkedin_names_only.csv(Created by program)
     |
