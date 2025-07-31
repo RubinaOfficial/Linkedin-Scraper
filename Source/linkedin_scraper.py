@@ -9,8 +9,8 @@ import random
 import csv
 import re
 
-USERNAME = "rubina12345@gmail.com"  
-PASSWORD = "" #PASSWORD
+USERNAME = "your_email@gmail.com"  
+PASSWORD = "your_password"
 MAX_PAGES = 100            
 
 
